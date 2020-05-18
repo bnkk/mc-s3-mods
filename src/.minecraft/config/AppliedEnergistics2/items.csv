@@ -4171,167 +4171,10 @@ secretroomsmod:secret_trapped_chest, Secret Trapped Chest
 secretroomsmod:secret_gate, Secret Gate Block
 secretroomsmod:secret_light_detector, Secret Light Detector
 forge:bucketfilled, %s Bucket
-aether:therastone_brick_slab, Therastone Brick Slab
-aether:highlands_packed_ice, Highlands Packed Ice
-aether:mutant_leaves, Mutated Leaves
-aether:agiosite_brick_wall, Agiosite Brick Wall
-aether:therawood_log_wall, Therawood Log Wall
-aether:aether_flower:2, Burstblossom
-aether:aether_flower:1, Purple Flower
-aether:aether_flower:0, White Rose
-aether:aether_flower:3, Aechor Sprout
-aether:wildcard, Wildcard
-aether:holystone:0, Holystone
-aether:holystone:1, Mossy Holystone
-aether:icestone_bricks, Icestone Bricks
-aether:quicksoil_glass, Quicksoil Glass
-aether:holystone_rock, Holystone Rock
-aether:faded_holystone_pillar, Faded Holystone Brick Pillar
-aether:dark_blue_skyroot_leaves, Dark Blue Skyroot Leaves
-aether:ferrosite, Ferrosite
-aether:forgotten_rose, Forgotten Rose
-aether:blue_skyroot_leaves, Blue Skyroot Leaves
-aether:icestone_ore, Icestone Ore
-aether:green_light_skyroot_leaves, Green Wisproot Leaves
-aether:sentrystone_brick_wall, Sentrystone Brick Wall
-aether:agiosite_stairs, Agiosite Stairs
-aether:icestone_bricks_decorative:3, Decorative Icestone Bricks
-aether:icestone_bricks_decorative:2, Decorative Icestone Bricks
-aether:icestone_bricks_decorative:4, Decorative Icestone Bricks
-aether:icestone_bricks_decorative:1, Decorative Icestone Bricks
-aether:icestone_bricks_decorative:0, Decorative Icestone Bricks
-aether:icestone_bricks_decorative:5, Decorative Icestone Bricks
-aether:blue_dark_skyroot_leaves, Blue Greatroot Leaves
-aether:masonry_bench, Masonry Bench
-aether:irradiated_flower, Irradiated Flower
-aether:ambrosium_torch, Ambrosium Torch
-aether:holystone_button, Holystone Button
-aether:therawood_log, Therawood Log
-aether:wisproot_slab, Wisproot Slab
-aether:therastone_pillar, Therastone Pillar
-aether:light_skyroot_beam, Wisproot Beam
-aether:agiosite_brick_decorative:3, Decorative Agiosite Bricks
-aether:agiosite_brick_decorative:2, Decorative Agiosite Bricks
-aether:agiosite_brick_decorative:4, Decorative Agiosite Bricks
-aether:agiosite_brick_decorative:1, Decorative Agiosite Bricks
-aether:agiosite_brick_decorative:0, Decorative Agiosite Bricks
-aether:agiosite_brick_decorative:5, Decorative Agiosite Bricks
-aether:quicksoil, Quicksoil
-aether:scatterglass, Scatterglass
-aether:gravitite_ore, Gravitite Ore
-aether:hellfirestone_brick, Hellfirestone Bricks
-aether:agiosite_brick, Agiosite Bricks
-aether:highlands_ice, Highlands Ice
-aether:therawood_fence_gate, Therawood Fence Gate
-aether:therawood_planks, Therawood Planks
-aether:magnetic_shroom, Magnetic Shroom
-aether:agiosite_brick_slab, Agiosite Brick Slab
-aether:crude_scatterglass_decorative:1, Decorative Crude Scatterglass
-aether:crude_scatterglass_decorative:0, Decorative Crude Scatterglass
-aether:holystone_brick_decorative:3, Decorative Holystone Bricks
-aether:holystone_brick_decorative:2, Decorative Holystone Bricks
-aether:holystone_brick_decorative:4, Decorative Holystone Bricks
-aether:holystone_brick_decorative:1, Decorative Holystone Bricks
-aether:holystone_brick_decorative:0, Decorative Holystone Bricks
-aether:holystone_brick_decorative:5, Decorative Holystone Bricks
-aether:holystone_brick_decorative:6, Decorative Holystone Bricks
-aether:holystone_pressure_plate, Holystone Pressure Plate
-aether:skyroot_trapdoor, Skyroot Trapdoor
-aether:quicksoil_glass_decorative:1, Decorative Quicksoil Glass
-aether:quicksoil_glass_decorative:0, Decorative Quicksoil Glass
-aether:sentrystone_pillar_lit, Sentrystone Brick Pillar Lit
-aether:golden_oak_log, Amberoot Wood
-aether:sentrystone_brick_slab, Sentrystone Brick Slab
-aether:scatterglass_slab, Scatterglass Slab
-aether:dark_skyroot_log, Greatroot Wood
-aether:hellfirestone_pillar, Hellfirestone Brick Pillar
-aether:skyroot_ladder, Skyroot Ladder
-aether:zanite_ore, Zanite Ore
-aether:outpost_campfire, Outpost Campfire
-aether:scatterglass_stairs, Scatterglass Stairs
-aether:wisproot_fence_gate, Wisproot Fence Gate
-aether:holystone_brick_wall, Holystone Brick Wall
-aether:woven_sticks:0, Woven Skyroot Sticks
-aether:scatterglass_pane, Scatterglass Pane
-aether:mossy_holystone_stairs, Mossy Holystone Stairs
-aether:greatroot_button, Greatroot Button
-aether:aercloud:2, Green Aercloud
-aether:aercloud:4, Storm Aercloud
-aether:aercloud:1, Blue Aercloud
-aether:aercloud:3, Golden Aercloud
-aether:aercloud:5, Purple Aercloud
-aether:aercloud:0, Cold Aercloud
-aether:hellfirestone_brick_wall, Hellfirestone Brick Wall
-aether:wisproot_fence, Wisproot Fence
-aether:therastone_brick_wall, Therastone Brick Wall
-aether:dark_skyroot_planks, Greatroot Planks
-aether:greatroot_fence, Greatroot Fence
-aether:arkenium_ore, Arkenium Ore
-aether:aether_portal, Aether Portal
-aether:skyroot_twigs, Skyroot Twigs
-aether:therawood_beam, Therawood Beam
-aether:greatroot_log_wall, Greatroot Wood Wall
-aether:icestone_slab, Icestone Brick Slab
-aether:wisproot_button, Wisproot Button
-aether:skyroot_bookshelf, Skyroot Bookshelf
-aether:amberoot_leaves, Amberoot Leaves
-aether:brettl_plant:0, tile.aether.brettl_plant.base.name
-aether:cloudwool_block, Cloudwool
-aether:therawood_decorative:5, Decorative Therawood
-aether:therawood_decorative:3, Decorative Therawood
-aether:therawood_decorative:0, Decorative Therawood
-aether:therawood_decorative:4, Decorative Therawood
-aether:therawood_decorative:1, Decorative Therawood
-aether:therawood_decorative:2, Decorative Therawood
-aether:holystone_slab, Holystone Slab
-aether:gravitite_block, Gravitite Block
-aether:agiosite_brick_stairs, Agiosite Brick Stairs
-aether:highlands_snow, Highlands Snow
-aether:sentrystone_brick_decorative:3, Decorative Sentrystone Bricks
-aether:sentrystone_brick_decorative:2, Decorative Sentrystone Bricks
-aether:sentrystone_brick_decorative:4, Decorative Sentrystone Bricks
-aether:sentrystone_brick_decorative:5, Decorative Sentrystone Bricks
-aether:sentrystone_brick_decorative:1, Decorative Sentrystone Bricks
-aether:sentrystone_brick_decorative:0, Decorative Sentrystone Bricks
-aether:sentrystone_brick_decorative:6, Decorative Sentrystone Bricks
-aether:light_skyroot_planks, Wisproot Planks
-aether:highlands_ice_crystal:0, Ice Crystal
-aether:tall_aether_grass:1, Highlands Grass
-aether:tall_aether_grass:0, Short Highlands Grass
-aether:tall_aether_grass:2, Long Highlands Grass
-aether:holystone_stairs, Holystone Stairs
-aether:icestone_brick_stairs, Icestone Brick Stairs
-aether:thera_dirt:0, Thera Dirt
-aether:green_skyroot_leaves, Green Skyroot Leaves
-aether:ferrosite_sand, Ferrosite Sand
-aether:orange_tree, Orange Tree
-aether:zanite_block, Zanite Block
-aether:sentrystone_pillar, Sentrystone Brick Pillar
-aether:therawood_slab, Therawood Slab
-aether:skyroot_slab, Skyroot Slab
-aether:aether_grass:0, Highlands Grass
-aether:aether_grass:1, Enchanted Grass
-aether:aether_grass:2, Arctic Grass
-aether:aether_grass:3, Magnetic Grass
-aether:aether_grass:4, Irradiated Grass
-aether:skyroot_planks, Skyroot Planks
-aether:hellfirestone_brick_stairs, Hellfirestone Brick Stairs
-aether:scatterglass_decorative:1, Decorative Scatterglass
-aether:scatterglass_decorative:0, Decorative Scatterglass
-aether:sentrystone_brick, Sentrystone Bricks
-aether:hellfirestone_lantern, Hellfirestone Lantern
-aether:skyroot_chest, Skyroot Chest
-aether:candy_cane_block, Candy Cane Block
-aether:green_swingtip, Green Swingtip
-aether:agiosite_slab, Agiosite Slab
 aether:greatroot_slab, Greatroot Slab
-aether:secret_skyroot_trapdoor, Secret Skyroot Trapdoor
-aether:wisproot_log_wall, Wisproot Wood Wall
-aether:neverbloom, Neverbloom
-aether:icestone_cooler, Icestone Cooler
-aether:therawood_stairs, Therawood Stairs
-aether:skyroot_log, Skyroot Wood
-aether:stoneshroom, Stoneshroom
+aether:blue_skyroot_leaves, Blue Skyroot Leaves
+aether:wisproot_fence, Wisproot Fence
+aether:therawood_slab, Therawood Slab
 aether:light_skyroot_decorative:5, Decorative Wisproot Planks
 aether:light_skyroot_decorative:6, Decorative Wisproot Planks
 aether:light_skyroot_decorative:3, Decorative Wisproot Planks
@@ -4340,75 +4183,82 @@ aether:light_skyroot_decorative:0, Decorative Wisproot Planks
 aether:light_skyroot_decorative:4, Decorative Wisproot Planks
 aether:light_skyroot_decorative:1, Decorative Wisproot Planks
 aether:light_skyroot_decorative:2, Decorative Wisproot Planks
-aether:icestone_pillar, Icestone Brick Pillar
-aether:wisproot_stairs, Wisproot Stairs
-aether:mossy_holystone_slab, Mossy Holystone Slab
-aether:quickshoot, Quickshoot
-aether:therastone_brick_decorative:3, Decorative Therastone Bricks
-aether:therastone_brick_decorative:2, Decorative Therastone Bricks
-aether:therastone_brick_decorative:4, Decorative Therastone Bricks
-aether:therastone_brick_decorative:1, Decorative Therastone Bricks
-aether:therastone_brick_decorative:0, Decorative Therastone Bricks
-aether:therastone_brick_decorative:5, Decorative Therastone Bricks
-aether:therastone_brick_decorative:6, Decorative Therastone Bricks
+aether:faded_holystone_brick_stairs, Faded Holystone Brick Stairs
+aether:green_light_skyroot_leaves, Green Wisproot Leaves
+aether:green_skyroot_leaves, Green Skyroot Leaves
+aether:therastone_brick_wall, Therastone Brick Wall
+aether:golden_oak_log, Amberoot Wood
+aether:wisproot_fence_gate, Wisproot Fence Gate
+aether:holystone_rock, Holystone Rock
+aether:agiosite_brick, Agiosite Bricks
 aether:candy_cane_wall, Candy Cane Wall
-aether:incubator, Incubator
-aether:skyroot_button, Skyroot Button
-aether:aether_crafting_table, Skyroot Crafting Table
-aether:icestone_wall, Icestone Brick Wall
-aether:crude_scatterglass_pane_decorative:1, Decorative Crude Scatterglass Pane
-aether:crude_scatterglass_pane_decorative:0, Decorative Crude Scatterglass Pane
-aether:therastone_brick_stairs, Therastone Brick Stairs
-aether:mossy_holystone_wall, Mossy Holystone Wall
-aether:holystone_pillar, Holystone Brick Pillar
-aether:dark_blue_light_skyroot_leaves, Dark Blue Wisproot Leaves
-aether:highlands_bush, Highlands Bush
-aether:present, Present
-aether:pink_swingtip, Pink Swingtip
-aether:sentrystone_brick_stairs, Sentrystone Brick Stairs
-aether:dark_skyroot_beam, Greatroot Beam
-aether:greatroot_stairs, Greatroot Stairs
-aether:mutant_leaves_decorated, Decorated Mutated Leaves
-aether:quicksoil_glass_pane, Quicksoil Glass Pane
 aether:plumproot, Plumproot
-aether:ambrosium_ore, Ambrosium Ore
+aether:scatterglass_pane_decorative:1, Decorative Scatterglass Pane
+aether:scatterglass_pane_decorative:0, Decorative Scatterglass Pane
+aether:aether_portal, Aether Portal
+aether:light_skyroot_beam, Wisproot Beam
+aether:mossy_holystone_stairs, Mossy Holystone Stairs
+aether:sentrystone_brick_decorative_lit:3, Decorative Sentrystone Bricks Lit
+aether:sentrystone_brick_decorative_lit:2, Decorative Sentrystone Bricks Lit
+aether:sentrystone_brick_decorative_lit:4, Decorative Sentrystone Bricks Lit
+aether:sentrystone_brick_decorative_lit:1, Decorative Sentrystone Bricks Lit
+aether:sentrystone_brick_decorative_lit:0, Decorative Sentrystone Bricks Lit
+aether:sentrystone_brick_decorative_lit:5, Decorative Sentrystone Bricks Lit
+aether:orange_tree, Orange Tree
+aether:greatroot_fence, Greatroot Fence
+aether:therastone_brick_stairs, Therastone Brick Stairs
+aether:skyroot_slab, Skyroot Slab
+aether:quicksoil_glass, Quicksoil Glass
+aether:agiosite_brick_wall, Agiosite Brick Wall
 aether:crude_scatterglass_pane, Crude Scatterglass Pane
-aether:scatterglass_wall, Scatterglass Wall
-aether:skyroot_pressure_plate, Skyroot Pressure Plate
+aether:skyroot_bookshelf, Skyroot Bookshelf
+aether:green_swingtip, Green Swingtip
+aether:dark_blue_skyroot_leaves, Dark Blue Skyroot Leaves
+aether:present, Present
+aether:rusted_ferrosite, Rusted Ferrosite
 aether:skyroot_stairs, Skyroot Stairs
-aether:highlands_tulips, Highlands Tulips
-aether:greatroot_sapling:1, Blue Greatroot Sapling
-aether:greatroot_sapling:0, Green Greatroot Sapling
-aether:greatroot_sapling:2, Dark Blue Greatroot Sapling
-aether:therawood_fence, Therawood Fence
-aether:barkshroom, Barkshroom
-aether:holystone_wall, Holystone Wall
-aether:hellfirestone_brick_slab, Hellfirestone Brick Slab
-aether:blue_light_skyroot_leaves, Blue Wisproot Leaves
-aether:holystone_brick, Holystone Bricks
-aether:holystone_brick_stairs, Holystone Brick Stairs
-aether:skyroot_fence, Skyroot Fence
-aether:wisproot_sapling:0, Green Wisproot Sapling
-aether:wisproot_sapling:1, Blue Wisproot Sapling
-aether:wisproot_sapling:2, Dark Blue Wisproot Sapling
-aether:dark_blue_dark_skyroot_leaves, Dark Blue Greatroot Leaves
-aether:thera_grass:0, Thera Grass
-aether:faded_holystone_brick, Faded Holystone Bricks
-aether:holystone_brick_slab, Holystone Brick Slab
-aether:unique_sapling:1, Edison's Crazy Mutant Tree Sapling
-aether:unique_sapling:0, Amberoot Sapling
+aether:greatroot_stairs, Greatroot Stairs
+aether:greatroot_fence_gate, Greatroot Fence Gate
 aether:aether_teleporter, Aether Portal
-aether:agiosite, Agiosite
+aether:skyroot_button, Skyroot Button
+aether:icestone_brick_stairs, Icestone Brick Stairs
+aether:irradiated_flower, Irradiated Flower
+aether:holystone_brick_wall, Holystone Brick Wall
+aether:agiosite_stairs, Agiosite Stairs
+aether:cloudwool_block, Cloudwool
+aether:icestone_slab, Icestone Brick Slab
+aether:highlands_ice_crystal:0, Ice Crystal
 aether:therawood_leaves, Therawood Leaves
-aether:quicksoil_glass_pane_decorative:1, Decorative Quicksoil Glass Pane
-aether:quicksoil_glass_pane_decorative:0, Decorative Quicksoil Glass Pane
-aether:faded_holystone_brick_decorative:3, Decorative Faded Holystone Bricks
-aether:faded_holystone_brick_decorative:2, Decorative Faded Holystone Bricks
-aether:faded_holystone_brick_decorative:4, Decorative Faded Holystone Bricks
-aether:faded_holystone_brick_decorative:1, Decorative Faded Holystone Bricks
-aether:faded_holystone_brick_decorative:0, Decorative Faded Holystone Bricks
-aether:faded_holystone_brick_decorative:5, Decorative Faded Holystone Bricks
-aether:faded_holystone_brick_decorative:6, Decorative Faded Holystone Bricks
+aether:faded_holystone_brick_slab, Faded Holystone Brick Slab
+aether:skyroot_ladder, Skyroot Ladder
+aether:holystone_brick_slab, Holystone Brick Slab
+aether:green_dark_skyroot_leaves, Green Greatroot Leaves
+aether:skyroot_log, Skyroot Wood
+aether:highlands_bush, Highlands Bush
+aether:holystone:0, Holystone
+aether:holystone:1, Mossy Holystone
+aether:agiosite, Agiosite
+aether:holystone_brick_decorative:3, Decorative Holystone Bricks
+aether:holystone_brick_decorative:2, Decorative Holystone Bricks
+aether:holystone_brick_decorative:4, Decorative Holystone Bricks
+aether:holystone_brick_decorative:1, Decorative Holystone Bricks
+aether:holystone_brick_decorative:0, Decorative Holystone Bricks
+aether:holystone_brick_decorative:5, Decorative Holystone Bricks
+aether:holystone_brick_decorative:6, Decorative Holystone Bricks
+aether:wildcard, Wildcard
+aether:highlands_tulips, Highlands Tulips
+aether:mossy_holystone_wall, Mossy Holystone Wall
+aether:quickshoot, Quickshoot
+aether:scatterglass_decorative:1, Decorative Scatterglass
+aether:scatterglass_decorative:0, Decorative Scatterglass
+aether:sentrystone_pillar, Sentrystone Brick Pillar
+aether:therastone_brick_slab, Therastone Brick Slab
+aether:wisproot_pressure_plate, Wisproot Pressure Plate
+aether:therawood_planks, Therawood Planks
+aether:aether_flower:2, Burstblossom
+aether:aether_flower:1, Purple Flower
+aether:aether_flower:0, White Rose
+aether:aether_flower:3, Aechor Sprout
 aether:dark_skyroot_decorative:5, Decorative Greatroot Planks
 aether:dark_skyroot_decorative:6, Decorative Greatroot Planks
 aether:dark_skyroot_decorative:3, Decorative Greatroot Planks
@@ -4417,34 +4267,144 @@ aether:dark_skyroot_decorative:0, Decorative Greatroot Planks
 aether:dark_skyroot_decorative:4, Decorative Greatroot Planks
 aether:dark_skyroot_decorative:1, Decorative Greatroot Planks
 aether:dark_skyroot_decorative:2, Decorative Greatroot Planks
-aether:faded_holystone_brick_wall, Faded Holystone Brick Wall
+aether:therawood_beam, Therawood Beam
+aether:arkenium_ore, Arkenium Ore
+aether:skyroot_planks, Skyroot Planks
+aether:woven_sticks:0, Woven Skyroot Sticks
+aether:outpost_campfire, Outpost Campfire
+aether:quicksoil_glass_decorative:1, Decorative Quicksoil Glass
+aether:quicksoil_glass_decorative:0, Decorative Quicksoil Glass
+aether:agiosite_wall, Agiosite Wall
+aether:hellfirestone_brick_slab, Hellfirestone Brick Slab
+aether:sentrystone_pillar_lit, Sentrystone Brick Pillar Lit
+aether:icestone_cooler, Icestone Cooler
+aether:holystone_brick_stairs, Holystone Brick Stairs
+aether:agiosite_brick_slab, Agiosite Brick Slab
+aether:barkshroom, Barkshroom
+aether:highlands_snow, Highlands Snow
+aether:magnetic_shroom, Magnetic Shroom
+aether:scatterglass_wall, Scatterglass Wall
+aether:skyroot_trapdoor, Skyroot Trapdoor
+aether:dark_skyroot_log, Greatroot Wood
+aether:agiosite_pillar, Agiosite Brick Pillar
+aether:quicksoil_glass_pane, Quicksoil Glass Pane
+aether:mossy_holystone_slab, Mossy Holystone Slab
+aether:icestone_bricks_decorative:3, Decorative Icestone Bricks
+aether:icestone_bricks_decorative:2, Decorative Icestone Bricks
+aether:icestone_bricks_decorative:4, Decorative Icestone Bricks
+aether:icestone_bricks_decorative:1, Decorative Icestone Bricks
+aether:icestone_bricks_decorative:0, Decorative Icestone Bricks
+aether:icestone_bricks_decorative:5, Decorative Icestone Bricks
+aether:light_skyroot_log, Wisproot Wood
+aether:tall_aether_grass:1, Highlands Grass
+aether:tall_aether_grass:0, Short Highlands Grass
+aether:tall_aether_grass:2, Long Highlands Grass
+aether:valkyrie_grass:0, Valkyrie Grass Sprout
+aether:valkyrie_grass:2, Valkyrie Grass
+aether:holystone_stairs, Holystone Stairs
+aether:holystone_slab, Holystone Slab
+aether:candy_cane_block, Candy Cane Block
+aether:sentrystone_brick_decorative:3, Decorative Sentrystone Bricks
+aether:sentrystone_brick_decorative:2, Decorative Sentrystone Bricks
+aether:sentrystone_brick_decorative:4, Decorative Sentrystone Bricks
+aether:sentrystone_brick_decorative:5, Decorative Sentrystone Bricks
+aether:sentrystone_brick_decorative:1, Decorative Sentrystone Bricks
+aether:sentrystone_brick_decorative:0, Decorative Sentrystone Bricks
+aether:sentrystone_brick_decorative:6, Decorative Sentrystone Bricks
+aether:hellfirestone_brick_stairs, Hellfirestone Brick Stairs
+aether:secret_skyroot_trapdoor, Secret Skyroot Trapdoor
+aether:greatroot_button, Greatroot Button
+aether:dark_blue_dark_skyroot_leaves, Dark Blue Greatroot Leaves
+aether:hellfirestone_brick, Hellfirestone Bricks
+aether:greatroot_sapling:1, Blue Greatroot Sapling
+aether:greatroot_sapling:0, Green Greatroot Sapling
+aether:greatroot_sapling:2, Dark Blue Greatroot Sapling
+aether:dark_blue_light_skyroot_leaves, Dark Blue Wisproot Leaves
+aether:crude_scatterglass_pane_decorative:1, Decorative Crude Scatterglass Pane
+aether:crude_scatterglass_pane_decorative:0, Decorative Crude Scatterglass Pane
+aether:greatroot_pressure_plate, Greatroot Pressure Plate
+aether:skyroot_fence, Skyroot Fence
+aether:scatterglass, Scatterglass
+aether:faded_holystone_brick_decorative:3, Decorative Faded Holystone Bricks
+aether:faded_holystone_brick_decorative:2, Decorative Faded Holystone Bricks
+aether:faded_holystone_brick_decorative:4, Decorative Faded Holystone Bricks
+aether:faded_holystone_brick_decorative:1, Decorative Faded Holystone Bricks
+aether:faded_holystone_brick_decorative:0, Decorative Faded Holystone Bricks
+aether:faded_holystone_brick_decorative:5, Decorative Faded Holystone Bricks
+aether:faded_holystone_brick_decorative:6, Decorative Faded Holystone Bricks
+aether:skyroot_pressure_plate, Skyroot Pressure Plate
+aether:cloudwool_carpet, Cloudwool Carpet
+aether:aether_dirt:0, Aether Dirt
+aether:aether_dirt:1, Coarse Aether Dirt
+aether:holystone_brick, Holystone Bricks
+aether:quicksoil_glass_pane_decorative:1, Decorative Quicksoil Glass Pane
+aether:quicksoil_glass_pane_decorative:0, Decorative Quicksoil Glass Pane
+aether:holystone_furnace, Holystone Furnace
+aether:incubator, Incubator
+aether:therastone_brick_decorative:3, Decorative Therastone Bricks
+aether:therastone_brick_decorative:2, Decorative Therastone Bricks
+aether:therastone_brick_decorative:4, Decorative Therastone Bricks
+aether:therastone_brick_decorative:1, Decorative Therastone Bricks
+aether:therastone_brick_decorative:0, Decorative Therastone Bricks
+aether:therastone_brick_decorative:5, Decorative Therastone Bricks
+aether:therastone_brick_decorative:6, Decorative Therastone Bricks
+aether:quicksoil, Quicksoil
+aether:scatterglass_pane, Scatterglass Pane
+aether:gravitite_block, Gravitite Block
+aether:thera_grass:0, Thera Grass
+aether:mutant_leaves_decorated, Decorated Mutated Leaves
+aether:light_skyroot_planks, Wisproot Planks
+aether:aether_crafting_table, Skyroot Crafting Table
+aether:therawood_fence_gate, Therawood Fence Gate
+aether:highlands_snow_layer, Highlands Snow
+aether:icestone_bricks, Icestone Bricks
+aether:sentrystone_brick_slab, Sentrystone Brick Slab
+aether:wisproot_sapling:0, Green Wisproot Sapling
+aether:wisproot_sapling:1, Blue Wisproot Sapling
+aether:wisproot_sapling:2, Dark Blue Wisproot Sapling
+aether:aether_grass:0, Highlands Grass
+aether:aether_grass:1, Enchanted Grass
+aether:aether_grass:2, Arctic Grass
+aether:aether_grass:3, Magnetic Grass
+aether:aether_grass:4, Irradiated Grass
+aether:icestone_wall, Icestone Brick Wall
+aether:aercloud:2, Green Aercloud
+aether:aercloud:4, Storm Aercloud
+aether:aercloud:1, Blue Aercloud
+aether:aercloud:3, Golden Aercloud
+aether:aercloud:5, Purple Aercloud
+aether:aercloud:0, Cold Aercloud
+aether:stoneshroom, Stoneshroom
+aether:skyroot_log_wall, Skyroot Wood Wall
+aether:agiosite_brick_stairs, Agiosite Brick Stairs
+aether:skyroot_twigs, Skyroot Twigs
+aether:wisproot_log_wall, Wisproot Wood Wall
 aether:arctic_spikespring, Arctic Spikespring
-aether:skyroot_beam, Skyroot Beam
-aether:therastone_brick, Therastone Bricks
-aether:altar, Altar
+aether:dark_skyroot_beam, Greatroot Beam
+aether:sentrystone_brick_wall, Sentrystone Brick Wall
+aether:highlands_ice, Highlands Ice
+aether:mutant_leaves, Mutated Leaves
+aether:blueberry_bush:0, Blueberry Bush Stem
+aether:blueberry_bush:1, Blueberry Bush
+aether:ferrosite_sand, Ferrosite Sand
+aether:greatroot_log_wall, Greatroot Wood Wall
 aether:skyroot_sapling:1, Blue Skyroot Sapling
 aether:skyroot_sapling:2, Dark Blue Skyroot Sapling
 aether:skyroot_sapling:0, Green Skyroot Sapling
-aether:wisproot_pressure_plate, Wisproot Pressure Plate
-aether:rusted_ferrosite, Rusted Ferrosite
-aether:cloudwool_carpet, Cloudwool Carpet
-aether:agiosite_wall, Agiosite Wall
-aether:holystone_bookshelf, Holystone Bookshelf
-aether:crude_scatterglass, Crude Scatterglass
-aether:scatterglass_pane_decorative:1, Decorative Scatterglass Pane
-aether:scatterglass_pane_decorative:0, Decorative Scatterglass Pane
-aether:skyroot_fence_gate, Skyroot Fence Gate
 aether:hellfirestone_brick_decorative:3, Decorative Hellfirestone Bricks
 aether:hellfirestone_brick_decorative:2, Decorative Hellfirestone Bricks
 aether:hellfirestone_brick_decorative:4, Decorative Hellfirestone Bricks
 aether:hellfirestone_brick_decorative:1, Decorative Hellfirestone Bricks
 aether:hellfirestone_brick_decorative:0, Decorative Hellfirestone Bricks
 aether:hellfirestone_brick_decorative:5, Decorative Hellfirestone Bricks
-aether:valkyrie_grass:0, Valkyrie Grass Sprout
-aether:valkyrie_grass:2, Valkyrie Grass
-aether:holystone_furnace, Holystone Furnace
-aether:aether_dirt:0, Aether Dirt
-aether:aether_dirt:1, Coarse Aether Dirt
+aether:sentrystone_brick_stairs, Sentrystone Brick Stairs
+aether:blue_swingtip, Blue Swingtip
+aether:neverbloom, Neverbloom
+aether:scatterglass_stairs, Scatterglass Stairs
+aether:pink_swingtip, Pink Swingtip
+aether:zanite_ore, Zanite Ore
+aether:therawood_log_wall, Therawood Log Wall
+aether:hellfirestone_brick_wall, Hellfirestone Brick Wall
 aether:skyroot_decorative:5, Decorative Skyroot Planks
 aether:skyroot_decorative:6, Decorative Skyroot Planks
 aether:skyroot_decorative:3, Decorative Skyroot Planks
@@ -4453,24 +4413,64 @@ aether:skyroot_decorative:0, Decorative Skyroot Planks
 aether:skyroot_decorative:4, Decorative Skyroot Planks
 aether:skyroot_decorative:1, Decorative Skyroot Planks
 aether:skyroot_decorative:2, Decorative Skyroot Planks
-aether:faded_holystone_brick_slab, Faded Holystone Brick Slab
-aether:faded_holystone_brick_stairs, Faded Holystone Brick Stairs
-aether:agiosite_pillar, Agiosite Brick Pillar
-aether:blueberry_bush:0, Blueberry Bush Stem
-aether:blueberry_bush:1, Blueberry Bush
-aether:green_dark_skyroot_leaves, Green Greatroot Leaves
-aether:greatroot_pressure_plate, Greatroot Pressure Plate
-aether:light_skyroot_log, Wisproot Wood
-aether:greatroot_fence_gate, Greatroot Fence Gate
-aether:sentrystone_brick_decorative_lit:3, Decorative Sentrystone Bricks Lit
-aether:sentrystone_brick_decorative_lit:2, Decorative Sentrystone Bricks Lit
-aether:sentrystone_brick_decorative_lit:4, Decorative Sentrystone Bricks Lit
-aether:sentrystone_brick_decorative_lit:1, Decorative Sentrystone Bricks Lit
-aether:sentrystone_brick_decorative_lit:0, Decorative Sentrystone Bricks Lit
-aether:sentrystone_brick_decorative_lit:5, Decorative Sentrystone Bricks Lit
-aether:highlands_snow_layer, Highlands Snow
-aether:skyroot_log_wall, Skyroot Wood Wall
-aether:blue_swingtip, Blue Swingtip
+aether:wisproot_stairs, Wisproot Stairs
+aether:skyroot_fence_gate, Skyroot Fence Gate
+aether:dark_skyroot_planks, Greatroot Planks
+aether:faded_holystone_pillar, Faded Holystone Brick Pillar
+aether:holystone_pressure_plate, Holystone Pressure Plate
+aether:therastone_pillar, Therastone Pillar
+aether:amberoot_leaves, Amberoot Leaves
+aether:ambrosium_torch, Ambrosium Torch
+aether:gravitite_ore, Gravitite Ore
+aether:ambrosium_ore, Ambrosium Ore
+aether:blue_light_skyroot_leaves, Blue Wisproot Leaves
+aether:hellfirestone_lantern, Hellfirestone Lantern
+aether:wisproot_button, Wisproot Button
+aether:therawood_fence, Therawood Fence
+aether:icestone_ore, Icestone Ore
+aether:brettl_plant:0, tile.aether.brettl_plant.base.name
+aether:hellfirestone_pillar, Hellfirestone Brick Pillar
+aether:agiosite_slab, Agiosite Slab
+aether:therastone_brick, Therastone Bricks
+aether:scatterglass_slab, Scatterglass Slab
+aether:holystone_button, Holystone Button
+aether:masonry_bench, Masonry Bench
+aether:crude_scatterglass_decorative:1, Decorative Crude Scatterglass
+aether:crude_scatterglass_decorative:0, Decorative Crude Scatterglass
+aether:altar, Altar
+aether:blue_dark_skyroot_leaves, Blue Greatroot Leaves
+aether:holystone_bookshelf, Holystone Bookshelf
+aether:skyroot_chest, Skyroot Chest
+aether:faded_holystone_brick, Faded Holystone Bricks
+aether:faded_holystone_brick_wall, Faded Holystone Brick Wall
+aether:crude_scatterglass, Crude Scatterglass
+aether:agiosite_brick_decorative:3, Decorative Agiosite Bricks
+aether:agiosite_brick_decorative:2, Decorative Agiosite Bricks
+aether:agiosite_brick_decorative:4, Decorative Agiosite Bricks
+aether:agiosite_brick_decorative:1, Decorative Agiosite Bricks
+aether:agiosite_brick_decorative:0, Decorative Agiosite Bricks
+aether:agiosite_brick_decorative:5, Decorative Agiosite Bricks
+aether:ferrosite, Ferrosite
+aether:icestone_pillar, Icestone Brick Pillar
+aether:forgotten_rose, Forgotten Rose
+aether:zanite_block, Zanite Block
+aether:skyroot_beam, Skyroot Beam
+aether:unique_sapling:1, Edison's Crazy Mutant Tree Sapling
+aether:unique_sapling:0, Amberoot Sapling
+aether:holystone_wall, Holystone Wall
+aether:holystone_pillar, Holystone Brick Pillar
+aether:wisproot_slab, Wisproot Slab
+aether:therawood_log, Therawood Log
+aether:sentrystone_brick, Sentrystone Bricks
+aether:therawood_stairs, Therawood Stairs
+aether:thera_dirt:0, Thera Dirt
+aether:highlands_packed_ice, Highlands Packed Ice
+aether:therawood_decorative:5, Decorative Therawood
+aether:therawood_decorative:3, Decorative Therawood
+aether:therawood_decorative:0, Decorative Therawood
+aether:therawood_decorative:4, Decorative Therawood
+aether:therawood_decorative:1, Decorative Therawood
+aether:therawood_decorative:2, Decorative Therawood
 aether:aechor_petal, Aechor Petal
 aether:aerwhale_music_disc, Aerwhale Music Disc
 aether:aether_saddle, Moa Saddle
@@ -7449,6 +7449,19 @@ appliedenergistics2:facade:0, Cable Facade - Triton Subsurface Grunt
 appliedenergistics2:facade:0, Cable Facade - Triton Stone
 appliedenergistics2:facade:0, Cable Facade - Triton Geyser
 appliedenergistics2:facade:0, Cable Facade - Triton Small Geyser
+appliedenergistics2:facade:0, Cable Facade - Proxima B Surface
+appliedenergistics2:facade:0, Cable Facade - Proxima B Subsurface
+appliedenergistics2:facade:0, Cable Facade - Proxima B Stone
+appliedenergistics2:facade:0, Cable Facade - Proxima B Ice Surface
+appliedenergistics2:facade:0, Cable Facade - Proxima B Ash Rock
+appliedenergistics2:facade:0, Cable Facade - Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Coal Ore
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Burnt Wood
+appliedenergistics2:facade:0, Cable Facade - Frozen Wood
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Grass
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Dirt
 appliedenergistics2:facade:0, Cable Facade - Barnarda C Stone
@@ -7474,19 +7487,6 @@ appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
 appliedenergistics2:facade:0, Cable Facade - Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Cobalt Ore
 appliedenergistics2:facade:0, Cable Facade - Nickel Ore
-appliedenergistics2:facade:0, Cable Facade - Proxima B Surface
-appliedenergistics2:facade:0, Cable Facade - Proxima B Subsurface
-appliedenergistics2:facade:0, Cable Facade - Proxima B Stone
-appliedenergistics2:facade:0, Cable Facade - Proxima B Ice Surface
-appliedenergistics2:facade:0, Cable Facade - Proxima B Ash Rock
-appliedenergistics2:facade:0, Cable Facade - Gold Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Coal Ore
-appliedenergistics2:facade:0, Cable Facade - Silicon Ore
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore
-appliedenergistics2:facade:0, Cable Facade - Burnt Wood
-appliedenergistics2:facade:0, Cable Facade - Frozen Wood
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
@@ -8299,34 +8299,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:shard:0, Naga Scale Shard
 tconstruct:shard:0, Steeleaf Shard
 tconstruct:shard:0, Fiery Shard
@@ -9377,64 +9377,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -10171,6 +10171,19 @@ galaxyspace:cobalt_hoe, Cobalt Hoe
 galaxyspace:jetpack, Electric Jetpack
 galaxyspace:geo_scanner:0, Geological Scanner
 galaxyspace:geo_scanner:100, Geological Scanner
+galaxyspace:proxima_b_blocks:0, Proxima B Surface
+galaxyspace:proxima_b_blocks:1, Proxima B Subsurface
+galaxyspace:proxima_b_blocks:2, Proxima B Stone
+galaxyspace:proxima_b_blocks:3, Proxima B Ice Surface
+galaxyspace:proxima_b_blocks:4, Proxima B Ash Rock
+galaxyspace:proxima_b_blocks:5, Gold Ore
+galaxyspace:proxima_b_blocks:6, Tin Ore
+galaxyspace:proxima_b_blocks:7, Copper Ore
+galaxyspace:proxima_b_blocks:8, Coal Ore
+galaxyspace:proxima_b_blocks:9, Silicon Ore
+galaxyspace:proxima_b_blocks:10, Diamond Ore
+galaxyspace:proxima_b_log_1, Burnt Wood
+galaxyspace:proxima_b_log_2, Frozen Wood
 galaxyspace:barnarda_c_grasses:0, Barnarda C Grass
 galaxyspace:barnarda_c_blocks:0, Barnarda C Dirt
 galaxyspace:barnarda_c_blocks:1, Barnarda C Stone
@@ -10210,19 +10223,6 @@ galaxyspace:barnarda_c_ores:12, Nickel Ore
 galaxyspace:br_basic:0, Violet Reeds
 galaxyspace:br_basic:1, Water Grass
 galaxyspace:br_foods:0, Yellow Fruits
-galaxyspace:proxima_b_blocks:0, Proxima B Surface
-galaxyspace:proxima_b_blocks:1, Proxima B Subsurface
-galaxyspace:proxima_b_blocks:2, Proxima B Stone
-galaxyspace:proxima_b_blocks:3, Proxima B Ice Surface
-galaxyspace:proxima_b_blocks:4, Proxima B Ash Rock
-galaxyspace:proxima_b_blocks:5, Gold Ore
-galaxyspace:proxima_b_blocks:6, Tin Ore
-galaxyspace:proxima_b_blocks:7, Copper Ore
-galaxyspace:proxima_b_blocks:8, Coal Ore
-galaxyspace:proxima_b_blocks:9, Silicon Ore
-galaxyspace:proxima_b_blocks:10, Diamond Ore
-galaxyspace:proxima_b_log_1, Burnt Wood
-galaxyspace:proxima_b_log_2, Frozen Wood
 galacticraftcore:unlit_torch_stone, Stone Torch
 galacticraftcore:unlit_torch_stone_lit, Stone Torch
 buildcraftlib:guide, BuildCraft Guide Book

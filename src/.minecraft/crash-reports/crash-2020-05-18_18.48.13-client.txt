@@ -1,0 +1,248 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  GSHooksLoader (GalaxySpace-1.12.2-2.0.13.jar)
+  LoadingPlugin (Xaeros_Minimap_20.9.0_Forge_1.12.jar)
+  PhosphorFMLLoadingPlugin (phosphor-1.12.2-0.2.6+build50.jar)
+  ForgelinPlugin (Forgelin-1.8.4.jar)
+  SecretRoomsMod-Core (secretroomsmod-1.12.2-5.6.4.jar)
+  OpenModsCorePlugin (OpenModsLib-1.12.2-0.12.2.jar)
+  MicdoodlePlugin (MicdoodleCore-1.12.2-4.0.2.273.jar)
+  CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+Contact their authors BEFORE contacting forge
+
+// Why did you do that?
+
+Time: 5/18/20 6:48 PM
+Description: Updating screen events
+
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at java.util.Arrays.copyOf(Unknown Source)
+	at java.util.zip.ZipCoder.getBytes(Unknown Source)
+	at java.util.zip.ZipFile.getEntry(Unknown Source)
+	at java.util.jar.JarFile.getEntry(Unknown Source)
+	at java.util.jar.JarFile.getJarEntry(Unknown Source)
+	at sun.misc.URLClassPath$JarLoader.getResource(Unknown Source)
+	at sun.misc.URLClassPath$JarLoader.findResource(Unknown Source)
+	at sun.misc.URLClassPath.findResource(Unknown Source)
+	at java.net.URLClassLoader$2.run(Unknown Source)
+	at java.net.URLClassLoader$2.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findResource(Unknown Source)
+	at java.lang.ClassLoader.getResource(Unknown Source)
+	at java.lang.Class.getResource(Unknown Source)
+	at net.minecraft.client.resources.DefaultResourcePack.func_110605_c(DefaultResourcePack.java:75)
+	at net.minecraft.client.resources.DefaultResourcePack.func_110590_a(DefaultResourcePack.java:44)
+	at net.minecraft.client.resources.FallbackResourceManager.func_177245_a(FallbackResourceManager.java:75)
+	at net.minecraft.client.resources.FallbackResourceManager.func_110536_a(FallbackResourceManager.java:65)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110536_a(SimpleReloadableResourceManager.java:65)
+	at net.minecraft.client.renderer.texture.TextureMap.func_184397_a(TextureMap.java:487)
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:297)
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:155)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110544_b(SimpleReloadableResourceManager.java:132)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110541_a(SimpleReloadableResourceManager.java:112)
+	at net.minecraft.client.Minecraft.func_110436_a(Minecraft.java:808)
+	at net.minecraft.client.gui.GuiScreenResourcePacks.func_146284_a(SourceFile:133)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at net.minecraft.client.gui.GuiScreenResourcePacks.func_73864_a(SourceFile:141)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiScreenResourcePacks.func_146274_d(SourceFile:77)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at java.util.Arrays.copyOf(Unknown Source)
+	at java.util.zip.ZipCoder.getBytes(Unknown Source)
+	at java.util.zip.ZipFile.getEntry(Unknown Source)
+	at java.util.jar.JarFile.getEntry(Unknown Source)
+	at java.util.jar.JarFile.getJarEntry(Unknown Source)
+	at sun.misc.URLClassPath$JarLoader.getResource(Unknown Source)
+	at sun.misc.URLClassPath$JarLoader.findResource(Unknown Source)
+	at sun.misc.URLClassPath.findResource(Unknown Source)
+	at java.net.URLClassLoader$2.run(Unknown Source)
+	at java.net.URLClassLoader$2.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findResource(Unknown Source)
+	at java.lang.ClassLoader.getResource(Unknown Source)
+	at java.lang.Class.getResource(Unknown Source)
+
+-- Affected screen --
+Details:
+	Screen name: net.minecraft.client.gui.GuiScreenResourcePacks
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1764)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1098)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196)
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231)
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_251, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 419867328 bytes (400 MB) / 3344433152 bytes (3189 MB) up to 3344433152 bytes (3189 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms128m -Xmx3588m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2854 Optifine OptiFine_1.12.2_HD_U_F5 69 mods loaded, 69 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                        | Version           | Source                                        | Signature                                |
+	|:------ |:------------------------- |:----------------- |:--------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft                 | 1.12.2            | minecraft.jar                                 | None                                     |
+	| LCHIJA | mcp                       | 9.42              | minecraft.jar                                 | None                                     |
+	| LCHIJA | FML                       | 8.0.99.99         | forge-1.12.2-14.23.5.2854-universal.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge                     | 14.23.5.2854      | forge-1.12.2-14.23.5.2854-universal.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | micdoodlecore             |                   | minecraft.jar                                 | None                                     |
+	| LCHIJA | xaerominimap_core         | 1.12.2-1.0        | minecraft.jar                                 | None                                     |
+	| LCHIJA | openmodscore              | 0.12.2            | minecraft.jar                                 | None                                     |
+	| LCHIJA | srm-hooks                 | 1.12.2-1.0.0      | minecraft.jar                                 | None                                     |
+	| LCHIJA | orbis-lib                 | 0.2.0             | orbis-lib-1.12.2-0.2.0+build224.jar           | db341c083b1b8ce9160a769b569ef6737b3f4cdf |
+	| LCHIJA | aether                    | 0.2.7             | aether_ii-1.12.2-0.2.7+build224-universal.jar | db341c083b1b8ce9160a769b569ef6737b3f4cdf |
+	| LCHIJA | ctm                       | MC1.12.2-1.0.2.31 | CTM-MC1.12.2-1.0.2.31.jar                     | None                                     |
+	| LCHIJA | appliedenergistics2       | rv6-stable-7      | appliedenergistics2-rv6-stable-7.jar          | dfa4d3ac143316c6f32aa1a1beda1e34d42132e5 |
+	| LCHIJA | mantle                    | 1.12-1.3.3.55     | Mantle-1.12-1.3.3.55.jar                      | None                                     |
+	| LCHIJA | jei                       | 4.15.0.291        | jei_1.12.2-4.15.0.291.jar                     | None                                     |
+	| LCHIJA | chisel                    | MC1.12.2-1.0.2.45 | Chisel-MC1.12.2-1.0.2.45.jar                  | None                                     |
+	| LCHIJA | twilightforest            | 3.10.1013         | twilightforest-1.12.2-3.10.1013-universal.jar | None                                     |
+	| LCHIJA | tconstruct                | 1.12.2-2.13.0.183 | TConstruct-1.12.2-2.13.0.183.jar              | None                                     |
+	| LCHIJA | galacticraftcore          | 4.0.2.273         | GalacticraftCore-1.12.2-4.0.2.273.jar         | None                                     |
+	| LCHIJA | galacticraftplanets       | 4.0.2.273         | Galacticraft-Planets-1.12.2-4.0.2.273.jar     | None                                     |
+	| LCHIJA | asmodeuscore              | 0.0.14            | AsmodeusCore-1.12.2-0.0.14.jar                | None                                     |
+	| LCHIJA | forgelin                  | 1.8.4             | Forgelin-1.8.4.jar                            | None                                     |
+	| LCHIJA | betterportals             | 0.3.7.7           | betterportals-0.3.7.7.jar                     | None                                     |
+	| LCHIJA | biomesoplenty             | 7.0.1.2441        | BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar | None                                     |
+	| LCHIJA | buildcraftlib             | 7.99.24.6         | buildcraft-all-7.99.24.6.jar                  | None                                     |
+	| LCHIJA | buildcraftcore            | 7.99.24.6         | buildcraft-all-7.99.24.6.jar                  | None                                     |
+	| LCHIJA | buildcraftbuilders        | 7.99.24.6         | buildcraft-all-7.99.24.6.jar                  | None                                     |
+	| LCHIJA | buildcrafttransport       | 7.99.24.6         | buildcraft-all-7.99.24.6.jar                  | None                                     |
+	| LCHIJA | buildcraftsilicon         | 7.99.24.6         | buildcraft-all-7.99.24.6.jar                  | None                                     |
+	| LCHIJA | buildcraftcompat          | 7.99.24.6         | buildcraft-all-7.99.24.6.jar                  | None                                     |
+	| LCHIJA | buildcraftenergy          | 7.99.24.6         | buildcraft-all-7.99.24.6.jar                  | None                                     |
+	| LCHIJA | buildcraftfactory         | 7.99.24.6         | buildcraft-all-7.99.24.6.jar                  | None                                     |
+	| LCHIJA | buildcraftrobotics        | 7.99.24.6         | buildcraft-all-7.99.24.6.jar                  | None                                     |
+	| LCHIJA | codechickenlib            | 3.2.3.358         | CodeChickenLib-1.12.2-3.2.3.358-universal.jar | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCHIJA | custommainmenu            | 2.0.9.1           | CustomMainMenu-MC1.12.2-2.0.9.1.jar           | None                                     |
+	| LCHIJA | dimdoors                  | 3.0.9+287         | DimensionalDoors-3.0.9-287.jar                | None                                     |
+	| LCHIJA | forgemultipartcbe         | 2.6.2.83          | ForgeMultipart-1.12.2-2.6.2.83-universal.jar  | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCHIJA | microblockcbe             | 2.6.2.83          | ForgeMultipart-1.12.2-2.6.2.83-universal.jar  | None                                     |
+	| LCHIJA | minecraftmultipartcbe     | 2.6.2.83          | ForgeMultipart-1.12.2-2.6.2.83-universal.jar  | None                                     |
+	| LCHIJA | cfm                       | 6.3.1             | furniture-6.3.1-1.12.2.jar                    | None                                     |
+	| LCHIJA | galaxyspace               | 2.0.13            | GalaxySpace-1.12.2-2.0.13.jar                 | None                                     |
+	| LCHIJA | ichunutil                 | 7.2.2             | iChunUtil-1.12.2-7.2.2.jar                    | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+	| LCHIJA | inventorypets             | 2.0.4             | inventorypets-1.12-2.0.4.jar                  | None                                     |
+	| LCHIJA | ironchest                 | 1.12.2-7.0.67.844 | ironchest-1.12.2-7.0.72.847.jar               | None                                     |
+	| LCHIJA | morph                     | 7.1.3             | Morph-1.12.2-7.1.3.jar                        | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+	| LCHIJA | mrtjpcore                 | 2.1.4.43          | MrTJPCore-1.12.2-2.1.4.43-universal.jar       | None                                     |
+	| LCHIJA | openmods                  | 0.12.2            | OpenModsLib-1.12.2-0.12.2.jar                 | d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5 |
+	| LCHIJA | openblocks                | 1.8.1             | OpenBlocks-1.12.2-1.8.1.jar                   | d2a9a8e8440196e26a268d1f3ddc01b2e9c572a5 |
+	| LCHIJA | harvestcraft              | 1.12.2zb          | Pam's+HarvestCraft+1.12.2zg.jar               | None                                     |
+	| LCHIJA | projectred-core           | 4.9.4.120         | ProjectRed-1.12.2-4.9.4.120-Base.jar          | None                                     |
+	| LCHIJA | projectred-compat         | 1.0               | ProjectRed-1.12.2-4.9.4.120-compat.jar        | None                                     |
+	| LCHIJA | projectred-integration    | 4.9.4.120         | ProjectRed-1.12.2-4.9.4.120-integration.jar   | None                                     |
+	| LCHIJA | projectred-transmission   | 4.9.4.120         | ProjectRed-1.12.2-4.9.4.120-integration.jar   | None                                     |
+	| LCHIJA | projectred-fabrication    | 4.9.4.120         | ProjectRed-1.12.2-4.9.4.120-fabrication.jar   | None                                     |
+	| LCHIJA | projectred-illumination   | 4.9.4.120         | ProjectRed-1.12.2-4.9.4.120-lighting.jar      | None                                     |
+	| LCHIJA | projectred-expansion      | 4.9.4.120         | ProjectRed-1.12.2-4.9.4.120-mechanical.jar    | None                                     |
+	| LCHIJA | projectred-relocation     | 4.9.4.120         | ProjectRed-1.12.2-4.9.4.120-mechanical.jar    | None                                     |
+	| LCHIJA | projectred-transportation | 4.9.4.120         | ProjectRed-1.12.2-4.9.4.120-mechanical.jar    | None                                     |
+	| LCHIJA | projectred-exploration    | 4.9.4.120         | ProjectRed-1.12.2-4.9.4.120-world.jar         | None                                     |
+	| LCHIJA | ptrmodellib               | 1.0.4             | PTRLib-1.0.4.jar                              | None                                     |
+	| LCHIJA | redstoneflux              | 2.1.1             | RedstoneFlux-1.12-2.1.1.1-universal.jar       | None                                     |
+	| LCHIJA | roguelike                 | 1.8.0             | RoguelikeDungeons-1.12.2-1.8.0.jar            | None                                     |
+	| LCHIJA | secretroomsmod            | 5.6.4             | secretroomsmod-1.12.2-5.6.4.jar               | None                                     |
+	| LCHIJA | simplyjetpacks            | 2.2.14.67         | SimplyJetpacks2-1.12.2-2.2.14.67.jar          | None                                     |
+	| LCHIJA | sync                      | 7.1.0             | Sync-1.12.2-7.1.0.jar                         | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+	| LCHIJA | veinminer                 | 0.38.2            | VeinMiner-1.12-0.38.2.647+b31535a.jar         | None                                     |
+	| LCHIJA | veinminermodsupport       | 0.38.2            | VeinMiner-1.12-0.38.2.647+b31535a.jar         | None                                     |
+	| LCHIJA | wawla                     | 2.6.275           | Wawla-1.12.2-2.6.275.jar                      | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | xaerominimap              | 20.9.0            | Xaeros_Minimap_20.9.0_Forge_1.12.jar          | None                                     |
+	| LCHIJA | phosphor-lighting         | 1.12.2-0.2.6      | phosphor-1.12.2-0.2.6+build50.jar             | f0387d288626cc2d937daa504e74af570c52a2f1 |
+
+	Loaded coremods (and transformers): 
+GSHooksLoader (GalaxySpace-1.12.2-2.0.13.jar)
+  galaxyspace.core.hooklib.minecraft.PrimaryClassTransformer
+LoadingPlugin (Xaeros_Minimap_20.9.0_Forge_1.12.jar)
+  xaero.common.core.transformer.ChunkTransformer
+  xaero.common.core.transformer.NetHandlerPlayClientTransformer
+PhosphorFMLLoadingPlugin (phosphor-1.12.2-0.2.6+build50.jar)
+  
+ForgelinPlugin (Forgelin-1.8.4.jar)
+  
+SecretRoomsMod-Core (secretroomsmod-1.12.2-5.6.4.jar)
+  com.wynprice.secretroomsmod.core.SecretRoomsTransformer
+OpenModsCorePlugin (OpenModsLib-1.12.2-0.12.2.jar)
+  openmods.core.OpenModsClassTransformer
+MicdoodlePlugin (MicdoodleCore-1.12.2-4.0.2.273.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.13586 Compatibility Profile Context 19.12.3 26.20.15003.5016' Renderer: 'Radeon RX 580 Series'
+	OpenModsLib class transformers: [llama_null_fix:FINISHED],[horse_base_null_fix:FINISHED],[pre_world_render_hook:FINISHED],[player_render_hook:FINISHED],[horse_null_fix:FINISHED]
+	AE2 Version: stable rv6-stable-7 for Forge 14.23.5.2768
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+		- chiselIntegration (Enabled/Not Forced)
+
+	AE2 Integration: IC2:OFF, RC:OFF, MFR:OFF, Waila:OFF, InvTweaks:OFF, JEI:ON, Mekanism:OFF, OpenComputers:OFF, THE_ONE_PROBE:OFF, TESLA:OFF, CRAFTTWEAKER:OFF
+	Launched Version: MultiMC5
+	LWJGL: 2.9.4
+	OpenGL: Radeon RX 580 Series GL version 4.6.13586 Compatibility Profile Context 19.12.3 26.20.15003.5016, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 12x AMD Ryzen 5 3600 6-Core Processor 
+	OptiFine Version: OptiFine_1.12.2_HD_U_F5
+	OptiFine Build: 20191204-141934
+	Render Distance Chunks: 8
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.13586 Compatibility Profile Context 19.12.3 26.20.15003.5016
+	OpenGlRenderer: Radeon RX 580 Series
+	OpenGlVendor: ATI Technologies Inc.
+	CpuCount: 12
